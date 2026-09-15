@@ -6,7 +6,7 @@ use CodeIgniter\Model;
 
 class JuliceModel extends Model
 {
-    protected $table            = 'julices';
+    protected $table            = 'carro';
     protected $primaryKey       = 'id';
     protected $useAutoIncrement = true;
     protected $returnType       = 'array';
