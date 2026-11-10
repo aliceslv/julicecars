@@ -15,7 +15,7 @@
 
 <div class="container"> 
     <h2>Seu novo carro está aqui!</h2>
-    <table class="table table-hover table-success">
+    <table class="table table-hover table-info">
   <thead>
     <tr>
       <th scope="col">id</th>
@@ -26,6 +26,7 @@
       <th scope="col">motor</th>
       <th scope="col">valor</th>
       <th scope="col">cor</th>
+      <th scope="col">ações</th>
     </tr>
   </thead>
   <tbody>
